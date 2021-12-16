@@ -3,6 +3,9 @@
 > Welcome to the world of APIs. 
 An ongoing collection of awesome resources, tools, learning tutorials, libraries, webcasts for design and implement RESTful API's. This is starting point for you to know the options available to write your class-A grade of API. These are delightful list of resources and good tools that are available out there in the ecosystem.
 
+[API](https://www.mulesoft.com/resources/api/what-is-an-api) is the acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk to each other. Each time you use an app like Facebook, send an instant message, or check the weather on your phone, you’re using an API.
+
+![apis](https://github.com/veilair/APIs-tools-development/blob/main/apis-tools-management.png)
 
 ## Table of Contents
 *  [API Specification Languages](#api-specification-languages)
