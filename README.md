@@ -20,7 +20,7 @@ An ongoing collection of awesome resources, tools, learning tutorials, libraries
 *  [API Monitoring](#api-monitoring)
 *  [API Testing](#api-testing)
 *  [JSON Format Standards](#json-format-standards)
-*  [Learning Resources](#learning-resources)
+*  [API Best Practices](#api-best-practices)
 *  [Blogs](#blogs)
 *  [Public APIs](#public-apis)
       - [Advertising](#advertising)
@@ -334,7 +334,7 @@ An ongoing collection of awesome resources, tools, learning tutorials, libraries
 - [Hydra](http://www.hydra-cg.com/)
 - [Ion](https://github.com/ionwg/ion-doc)
 
-## Learning Resources
+## API Best Practices
 - [Choosing an HTTP Status Code](http://racksburg.com/choosing-an-http-status-code/)
 - [REST in Practice](http://shop.oreilly.com/product/9780596805838.do)
 - [Roy Fielding's dissertation on REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
