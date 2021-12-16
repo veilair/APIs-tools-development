@@ -1,6 +1,6 @@
 # APIs Development Tools
 
-> Welcome to the world of APIs
+> Welcome to the world of APIs. 
 An ongoing collection of awesome resources, tools, learning tutorials, libraries, webcasts for design and implement RESTful API's. This is starting point for you to know the options available to write your class-A grade of API. These are delightful list of resources and good tools that are available out there in the ecosystem.
 
 
@@ -32,21 +32,21 @@ An ongoing collection of awesome resources, tools, learning tutorials, libraries
       - [Calendar](#calendar)
       - [Captcha](#captcha)
       - [Check In](#check-in)
-- [Commerce](#commerce)
-- [Communication](#communication)
-- [Content](#content)
-- [Currency](#currency)
-- [Data Science](#data-science)
-- [Design](#design)
-- [Dictionary](#dictionary)
-- [Entertainment](#entertainment)
-- [Events](#events)
-- [Face Recognition](#face-recognition)
-- [File Storage and Manipulation](#file-storage-and-manipulation)
-- [Finance](#finance)
-- [Fitness](#fitness)
-- [Google](#google)
-- [Identity Verification](#identity-verification)
+      - [Commerce](#commerce)
+      - [Communication](#communication)
+      - [Content](#content)
+      - [Currency](#currency)
+      - [Data Science](#data-science)
+      - [Design](#design)
+      - [Dictionary](#dictionary)
+      - [Entertainment](#entertainment)
+      - [Events](#events)
+      - [Face Recognition](#face-recognition)
+      - [File Storage and Manipulation](#file-storage-and-manipulation)
+      - [Finance](#finance)
+      - [Fitness](#fitness)
+      - [Google](#google)
+      - [Identity Verification](#identity-verification)
 - [Image Moderation](#image-moderation)
 - [IoT](#iot)
 - [Legal](#legal)
@@ -84,6 +84,7 @@ An ongoing collection of awesome resources, tools, learning tutorials, libraries
 - [More Resources](#more-resources)
 - [Contribute](#contributions)
 - [License](#license)
+
 *  [References](#references)
 
 
