@@ -338,6 +338,7 @@ An ongoing collection of awesome resources, tools, learning tutorials, libraries
 - [Ion](https://github.com/ionwg/ion-doc)
 
 ## API Best Practices
+- [What is an API](https://www.mulesoft.com/resources/api/what-is-an-api)
 - [Choosing an HTTP Status Code](http://racksburg.com/choosing-an-http-status-code/)
 - [REST in Practice](http://shop.oreilly.com/product/9780596805838.do)
 - [Roy Fielding's dissertation on REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
