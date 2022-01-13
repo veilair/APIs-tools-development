@@ -7,7 +7,7 @@ An ongoing collection of awesome resources, tools, learning tutorials, libraries
 
 ![apis](https://github.com/veilair/APIs-tools-development/blob/main/apis-tools-management.png)
 
-## Table of Contents
+## `Table of Contents`
 *  [API Specification Languages](#api-specification-languages)
 *  [API Specification Tools](#api-specification-tools)
 *  [API Specifications](#api-specifications)
